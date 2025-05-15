@@ -1,0 +1,422 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "Aane Baaro",
+      "titleKannada": "ಆನೆ ಬಾರೋ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಆನೆ ಬಾರೋ ಆನೆ ಬಾರೋ\nದೊಡ್ಡ ದೊಡ್ಡ ಕಾಲ ಹಾಕಿ ಬಾರೋ\nಬಾಳೆ ಹಣ್ಣ ತಿನ್ನಲು ಬಾರೋ\nನಮ್ಮ ಜೊತೆಗೆ ಆಡಲು ಬಾರೋ",
+      "verseEnglish": "Come elephant come elephant\nCome walking with your big big feet\nCome to eat the banana fruit\nCome to play with us",
+      "wordMeanings": [
+        {"word":"ಆನೆ","meaning":"ದೊಡ್ಡ ಪ್ರಾಣಿ","transliteration":"aane","englishEquivalent":"elephant"},
+        {"word":"ಬಾಳೆ ಹಣ್ಣು","meaning":"ಹಳದಿ ಹಣ್ಣು","transliteration":"baale hannu","englishEquivalent":"banana"},
+        {"word":"ಆಡು","meaning":"ಆಟ ಮಾಡು","transliteration":"aadu","englishEquivalent":"to play"}
+      ],
+      "bhavartha": "ಮಕ್ಕಳ ಇಷ್ಟದ ಆನೆಯನ್ನು ಜೊತೆ ಆಡಲು ಕರೆಯುವ ಸೊಗಸಾದ ಪದ್ಯ. Children invite their favourite animal — the elephant — to play with them. This poem is taught in LKG/UKG across Karnataka.",
+      "audioFile": "poem_001",
+      "theme": "Nature"
+    },
+    {
+      "id": 2,
+      "title": "Ondu Eradu Mooru",
+      "titleKannada": "ಒಂದು ಎರಡು ಮೂರು",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಒಂದು ಎರಡು ಮೂರು\nನಾಲ್ಕು ಐದು ಆರು\nಏಳು ಎಂಟು ಒಂಬತ್ತು\nಹತ್ತಕ್ಕೆ ಬಂದಿತು ಸೂರ್ಯ",
+      "verseEnglish": "One two three\nFour five six\nSeven eight nine\nAt ten came the sun",
+      "wordMeanings": [
+        {"word":"ಒಂದು","meaning":"1","transliteration":"ondu","englishEquivalent":"one"},
+        {"word":"ಹತ್ತು","meaning":"10","transliteration":"hattu","englishEquivalent":"ten"},
+        {"word":"ಸೂರ್ಯ","meaning":"ಬೆಳಕಿನ ದೇವರು","transliteration":"surya","englishEquivalent":"sun"}
+      ],
+      "bhavartha": "ಕನ್ನಡದಲ್ಲಿ ಒಂದರಿಂದ ಹತ್ತರ ತನಕ ಎಣಿಸಲು ಕಲಿಯುವ ಮಕ್ಕಳ ಪದ್ಯ. A counting rhyme that helps children learn Kannada numbers 1 to 10. Taught in all Karnataka nursery schools.",
+      "audioFile": "poem_002",
+      "theme": "Wisdom"
+    },
+    {
+      "id": 3,
+      "title": "Baa Baa Kaage Baa",
+      "titleKannada": "ಬಾ ಬಾ ಕಾಗೆ ಬಾ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಬಾ ಬಾ ಕಾಗೆ ಬಾ\nಅನ್ನ ತಿನ್ನಲು ಬಾ\nಅಮ್ಮ ಇಕ್ಕಿದ ಅನ್ನ\nನೀನೂ ಉಣ್ಣಲು ಬಾ",
+      "verseEnglish": "Come come crow come\nCome to eat food\nThe rice that mother served\nYou too come and eat",
+      "wordMeanings": [
+        {"word":"ಕಾಗೆ","meaning":"ಕಪ್ಪು ಹಕ್ಕಿ","transliteration":"kaage","englishEquivalent":"crow"},
+        {"word":"ಅನ್ನ","meaning":"ಬೇಯಿಸಿದ ಅಕ್ಕಿ","transliteration":"anna","englishEquivalent":"cooked rice"},
+        {"word":"ಉಣ್ಣು","meaning":"ತಿನ್ನು","transliteration":"unnu","englishEquivalent":"to eat"}
+      ],
+      "bhavartha": "ಕಾಗೆಗೆ ಅನ್ನ ಕೊಡುವ ಸಂಪ್ರದಾಯ ಕರ್ನಾಟಕದಲ್ಲಿ ಇದೆ. ಪ್ರೀತಿ ಮತ್ತು ಹಂಚಿಕೊಳ್ಳುವ ಮನೋಭಾವ ತೋರಿಸುವ ಪದ್ಯ. Feeding crows before eating is a Karnataka tradition. This poem teaches sharing and kindness to children.",
+      "audioFile": "poem_003",
+      "theme": "Devotion"
+    },
+    {
+      "id": 4,
+      "title": "Chandamama Baa Baa",
+      "titleKannada": "ಚಂದಮಾಮ ಬಾ ಬಾ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಚಂದಮಾಮ ಬಾ ಬಾ\nಹಾಲು ಕುಡಿದು ಬಾ ಬಾ\nಮಕ್ಕಳಿಗೆ ಬೆಳಕ ಕೊಡು\nರಾತ್ರಿ ಕತ್ತಲ ಓಡಿಸು",
+      "verseEnglish": "Moon uncle come come\nDrink your milk and come come\nGive light to the children\nChase away the darkness of night",
+      "wordMeanings": [
+        {"word":"ಚಂದಮಾಮ","meaning":"ಚಂದ್ರ, ಚಂದ್ರ ಅಂಕಲ್","transliteration":"chandamama","englishEquivalent":"moon uncle"},
+        {"word":"ಹಾಲು","meaning":"ಬಿಳಿ ಪಾನೀಯ","transliteration":"haalu","englishEquivalent":"milk"},
+        {"word":"ಕತ್ತಲ","meaning":"ಬೆಳಕಿಲ್ಲದ ಸ್ಥಳ","transliteration":"kattala","englishEquivalent":"darkness"}
+      ],
+      "bhavartha": "ಚಂದ್ರನನ್ನು ಮಾಮ ಎಂದು ಕರೆಯುವ ಮಕ್ಕಳ ಪದ್ಯ. ಕತ್ತಲ ಓಡಿಸಿ ಬೆಳಕ ಕೊಡು ಎಂದು ಕೇಳುತ್ತಾರೆ. Children call the moon their uncle and ask him to bring light into their night. Classic Karnataka nursery rhyme.",
+      "audioFile": "poem_004",
+      "theme": "Nature"
+    },
+    {
+      "id": 5,
+      "title": "Akka Baaramma",
+      "titleKannada": "ಅಕ್ಕ ಬಾರಮ್ಮ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಅಕ್ಕ ಬಾರಮ್ಮ ಶಾಲೆಗೆ ಬಾರಮ್ಮ\nಜ್ಞಾನವ ಕಲಿಯಲು ಬಾರಮ್ಮ\nಓದಿ ಬರೆದು ದೊಡ್ಡವಳಾಗಮ್ಮ\nನಾಡಿಗೆ ಬೆಳಕಾಗಮ್ಮ",
+      "verseEnglish": "Sister come come to school\nCome to learn knowledge\nRead and write and grow up sister\nBecome the light of our land",
+      "wordMeanings": [
+        {"word":"ಅಕ್ಕ","meaning":"ಹಿರಿಯ ತಂಗಿ","transliteration":"akka","englishEquivalent":"elder sister"},
+        {"word":"ಜ್ಞಾನ","meaning":"ಅರಿವು","transliteration":"jnana","englishEquivalent":"knowledge"},
+        {"word":"ನಾಡು","meaning":"ದೇಶ","transliteration":"naadu","englishEquivalent":"nation, land"}
+      ],
+      "bhavartha": "ಹೆಣ್ಣು ಮಕ್ಕಳಿಗೆ ಶಿಕ್ಷಣ ಮುಖ್ಯ ಎಂದು ಸಾರುವ ಪದ್ಯ. This poem encourages girls to go to school and become educated — a poem taught in 1st standard across Karnataka government schools.",
+      "audioFile": "poem_005",
+      "theme": "Wisdom"
+    },
+    {
+      "id": 6,
+      "title": "Namma Nadu Karnataka",
+      "titleKannada": "ನಮ್ಮ ನಾಡು ಕರ್ನಾಟಕ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ನಮ್ಮ ನಾಡು ಕರ್ನಾಟಕ\nನಮ್ಮ ನುಡಿ ಕನ್ನಡ\nಕಾವೇರಿ ತುಂಗಾ ಹರಿಯುವ ನಾಡು\nಬೆಟ್ಟ ಕಾಡು ತುಂಬಿದ ನಾಡು",
+      "verseEnglish": "Our land is Karnataka\nOur language is Kannada\nThe land where Cauvery and Tunga flow\nThe land full of hills and forests",
+      "wordMeanings": [
+        {"word":"ನಾಡು","meaning":"ದೇಶ, ರಾಜ್ಯ","transliteration":"naadu","englishEquivalent":"land, state"},
+        {"word":"ನುಡಿ","meaning":"ಭಾಷೆ","transliteration":"nudi","englishEquivalent":"language"},
+        {"word":"ಕಾವೇರಿ","meaning":"ಕರ್ನಾಟಕದ ಪ್ರಸಿದ್ಧ ನದಿ","transliteration":"kaaveri","englishEquivalent":"River Cauvery"}
+      ],
+      "bhavartha": "ಕರ್ನಾಟಕ ನಾಡಿನ ಪರಿಚಯ ಮಾಡಿಸುವ ಪ್ರಾಥಮಿಕ ಶಾಲೆಯ ಪದ್ಯ. This poem introduces children to Karnataka — its language, rivers, and natural beauty. Taught in 1st standard.",
+      "audioFile": "poem_006",
+      "theme": "Patriotism"
+    },
+    {
+      "id": 7,
+      "title": "Hoovina Haadu",
+      "titleKannada": "ಹೂವಿನ ಹಾಡು",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಹೂವೆ ಹೂವೆ ಸುಂದರ ಹೂವೆ\nತೋಟದಲ್ಲಿ ಅರಳಿದ ಹೂವೆ\nಕೆಂಪು ಹಳದಿ ನೀಲಿ ಬಣ್ಣ\nಎಲ್ಲರ ಮನಸು ತಣಿಸುವ ಹೂವೆ",
+      "verseEnglish": "Flower flower beautiful flower\nFlower that bloomed in the garden\nRed yellow blue colors\nFlower that pleases everyone's heart",
+      "wordMeanings": [
+        {"word":"ಹೂವು","meaning":"ಸಸ್ಯದ ಸುಂದರ ಭಾಗ","transliteration":"hooovu","englishEquivalent":"flower"},
+        {"word":"ತೋಟ","meaning":"ಗಿಡ ಮರ ಬೆಳೆಸಿದ ಜಾಗ","transliteration":"tota","englishEquivalent":"garden"},
+        {"word":"ಅರಳು","meaning":"ಹೂ ಬಿಡು","transliteration":"aralu","englishEquivalent":"to bloom"}
+      ],
+      "bhavartha": "ಬೇರೆ ಬೇರೆ ಬಣ್ಣದ ಹೂಗಳ ಸೌಂದರ್ಯ ವರ್ಣಿಸುವ ಪದ್ಯ. ಮಕ್ಕಳಿಗೆ ಬಣ್ಣಗಳನ್ನು ಕಲಿಸಲು ಉಪಯೋಗ. A poem about colourful flowers that also helps children learn colour names in Kannada — taught in LKG.",
+      "audioFile": "poem_007",
+      "theme": "Nature"
+    },
+    {
+      "id": 8,
+      "title": "Maleya Mele Mane",
+      "titleKannada": "ಮಳೆಯ ಮೇಲೆ ಮನೆ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಮಳೆ ಬರುತ್ತದೆ ಮಳೆ ಬರುತ್ತದೆ\nಛತ್ರಿ ತೆಗೆಯಿರೋ ಮಕ್ಕಳೇ\nಮಣ್ಣಲ್ಲಿ ಆಡಿ ಮನೆಗೆ ಬನ್ನಿ\nಅಮ್ಮ ಕಾಯುತ್ತಿದ್ದಾಳೆ ಮಕ್ಕಳೇ",
+      "verseEnglish": "Rain is coming rain is coming\nOpen your umbrellas children\nPlay in the mud and come home\nMother is waiting children",
+      "wordMeanings": [
+        {"word":"ಮಳೆ","meaning":"ಆಕಾಶದಿಂದ ಬೀಳುವ ನೀರು","transliteration":"male","englishEquivalent":"rain"},
+        {"word":"ಛತ್ರಿ","meaning":"ಮಳೆಯಿಂದ ಕಾಪಾಡುವ ವಸ್ತು","transliteration":"chhatri","englishEquivalent":"umbrella"},
+        {"word":"ಮಣ್ಣು","meaning":"ಭೂಮಿ","transliteration":"mannu","englishEquivalent":"mud, earth"}
+      ],
+      "bhavartha": "ಮಳೆ ಬಂದಾಗ ಮಕ್ಕಳ ಸಂತೋಷ ಮತ್ತು ಅಮ್ಮನ ಪ್ರೀತಿ ತೋರಿಸುವ ಪದ್ಯ. A rainy day poem capturing the joy of children playing in rain while mother waits at home. 1st standard Karnataka textbook poem.",
+      "audioFile": "poem_008",
+      "theme": "Love"
+    },
+    {
+      "id": 9,
+      "title": "Pakshi Haadu",
+      "titleKannada": "ಪಕ್ಷಿ ಹಾಡು",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಗಿಳಿ ಗಿಳಿ ಹಾರುತ್ತದೆ\nಕೋಗಿಲೆ ಹಾಡುತ್ತದೆ\nನವಿಲು ಕುಣಿಯುತ್ತದೆ\nಎಲ್ಲ ಹಕ್ಕಿ ಸಂತೋಷ ಪಡುತ್ತದೆ",
+      "verseEnglish": "The parrot parrot flies\nThe cuckoo sings\nThe peacock dances\nAll the birds are happy",
+      "wordMeanings": [
+        {"word":"ಗಿಳಿ","meaning":"ಹಸಿರು ಹಕ್ಕಿ","transliteration":"gili","englishEquivalent":"parrot"},
+        {"word":"ಕೋಗಿಲೆ","meaning":"ಸಿಹಿ ದ್ವನಿಯ ಹಕ್ಕಿ","transliteration":"kogile","englishEquivalent":"cuckoo"},
+        {"word":"ನವಿಲು","meaning":"ಸುಂದರ ಹಕ್ಕಿ","transliteration":"navilu","englishEquivalent":"peacock"}
+      ],
+      "bhavartha": "ಮೂರು ವಿಧದ ಹಕ್ಕಿಗಳ ಗುಣ ವರ್ಣಿಸುವ ಪದ್ಯ. Teaches children about three birds — parrot, cuckoo and peacock — and their special qualities. 2nd standard Karnataka poem.",
+      "audioFile": "poem_009",
+      "theme": "Nature"
+    },
+    {
+      "id": 10,
+      "title": "Amma Endare",
+      "titleKannada": "ಅಮ್ಮ ಎಂದರೆ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಅಮ್ಮ ಎಂದರೆ ಅಮೃತ ಸಮಾನ\nಅಮ್ಮ ಎಂದರೆ ಸ್ವರ್ಗ ಸಮಾನ\nಅಮ್ಮನ ಮಡಿಲೇ ನನ್ನ ಪ್ರಪಂಚ\nಅಮ್ಮನ ಪ್ರೀತಿಯೇ ನನ್ನ ಶಕ್ತಿ",
+      "verseEnglish": "Mother is equal to nectar\nMother is equal to heaven\nMother's lap is my whole world\nMother's love is my strength",
+      "wordMeanings": [
+        {"word":"ಅಮ್ಮ","meaning":"ತಾಯಿ","transliteration":"amma","englishEquivalent":"mother"},
+        {"word":"ಅಮೃತ","meaning":"ದೇವರ ಪಾನೀಯ","transliteration":"amruta","englishEquivalent":"nectar, divine drink"},
+        {"word":"ಮಡಿಲು","meaning":"ತಾಯಿಯ ತೊಡೆ","transliteration":"madilu","englishEquivalent":"mother's lap"}
+      ],
+      "bhavartha": "ತಾಯಿಯ ಪ್ರೀತಿ ಸ್ವರ್ಗಕ್ಕೆ ಸಮಾನ ಎಂದು ಹೇಳುವ ಪದ್ಯ. A beautiful poem about mother's love — one of the most loved poems in Karnataka 2nd standard textbook.",
+      "audioFile": "poem_010",
+      "theme": "Love"
+    },
+    {
+      "id": 11,
+      "title": "Shaale Namma Shaale",
+      "titleKannada": "ಶಾಲೆ ನಮ್ಮ ಶಾಲೆ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಶಾಲೆ ನಮ್ಮ ಶಾಲೆ\nಜ್ಞಾನದ ಗುಡಿ ಶಾಲೆ\nಓದಿ ಬರೆದು ಕಲಿಯುವ ಶಾಲೆ\nದೊಡ್ಡವರಾಗಲು ಸಹಾಯ ಮಾಡುವ ಶಾಲೆ",
+      "verseEnglish": "School our school\nSchool is the temple of knowledge\nSchool where we read write and learn\nSchool that helps us grow up",
+      "wordMeanings": [
+        {"word":"ಶಾಲೆ","meaning":"ಕಲಿಕೆಯ ತಾಣ","transliteration":"shaale","englishEquivalent":"school"},
+        {"word":"ಜ್ಞಾನ","meaning":"ಅರಿವು","transliteration":"jnana","englishEquivalent":"knowledge"},
+        {"word":"ಗುಡಿ","meaning":"ದೇವಾಲಯ","transliteration":"gudi","englishEquivalent":"temple"}
+      ],
+      "bhavartha": "ಶಾಲೆಯ ಮಹತ್ವ ತಿಳಿಸುವ ಪದ್ಯ. ಶಾಲೆ ಜ್ಞಾನದ ಗುಡಿ ಎಂದು ಹೇಳಲಾಗಿದೆ. A poem that celebrates school as a temple of knowledge — inspiring children to love education. 1st standard.",
+      "audioFile": "poem_011",
+      "theme": "Wisdom"
+    },
+    {
+      "id": 12,
+      "title": "Deva Ninna Dayeyenu",
+      "titleKannada": "ದೇವ ನಿನ್ನ ದಯೆಯೇನು",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ದೇವ ನಿನ್ನ ದಯೆಯೇನು\nಸೂರ್ಯ ಚಂದ್ರ ತಾರೆಗಳ ಕೊಟ್ಟೆ\nಮಳೆ ಬೆಳಕ ಭೂಮಿ ಕೊಟ್ಟೆ\nಎಲ್ಲ ಮಕ್ಕಳ ಕಾಪಾಡೆ ದೇವ",
+      "verseEnglish": "God what is your grace\nYou gave us sun moon and stars\nYou gave us rain light and earth\nProtect all children O God",
+      "wordMeanings": [
+        {"word":"ದೇವ","meaning":"ಭಗವಂತ","transliteration":"deva","englishEquivalent":"God"},
+        {"word":"ದಯೆ","meaning":"ಕರುಣೆ","transliteration":"daye","englishEquivalent":"grace, kindness"},
+        {"word":"ಕಾಪಾಡು","meaning":"ರಕ್ಷಿಸು","transliteration":"kaapaadu","englishEquivalent":"to protect"}
+      ],
+      "bhavartha": "ದೇವರ ಕೃಪೆ ಮತ್ತು ಪ್ರಕೃತಿ ಕೊಡುಗೆಗೆ ಧನ್ಯವಾದ ಹೇಳುವ ಪದ್ಯ. A prayer poem thanking God for the sun, moon, rain and earth — taught as a morning prayer poem in Karnataka schools.",
+      "audioFile": "poem_012",
+      "theme": "Devotion"
+    },
+    {
+      "id": 13,
+      "title": "Geleya Geleya",
+      "titleKannada": "ಗೆಳೆಯ ಗೆಳೆಯ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಗೆಳೆಯ ಗೆಳೆಯ ಬಾರೋ ಇಲ್ಲಿ\nಜೊತೆಗೆ ಶಾಲೆಗೆ ಹೋಗೋಣ\nಜಗಳ ಮಾಡದೆ ಪ್ರೀತಿಯಿಂದ\nಯಾವಾಗಲೂ ಇರೋಣ",
+      "verseEnglish": "Friend friend come here\nLet us go to school together\nWithout fighting with love\nLet us always be together",
+      "wordMeanings": [
+        {"word":"ಗೆಳೆಯ","meaning":"ಸ್ನೇಹಿತ","transliteration":"geleya","englishEquivalent":"friend"},
+        {"word":"ಜಗಳ","meaning":"ಕಲಹ","transliteration":"jagala","englishEquivalent":"fight"},
+        {"word":"ಪ್ರೀತಿ","meaning":"ಮೋಹ","transliteration":"preeti","englishEquivalent":"love, affection"}
+      ],
+      "bhavartha": "ಸ್ನೇಹದ ಮಹತ್ವ ತಿಳಿಸುವ ಪದ್ಯ. ಜಗಳ ಮಾಡದೆ ಪ್ರೀತಿಯಿಂದ ಇರಬೇಕು ಎಂದು ಕಲಿಸುತ್ತದೆ. A poem about friendship — encouraging children to be loving and go to school together. 1st standard.",
+      "audioFile": "poem_013",
+      "theme": "Love"
+    },
+    {
+      "id": 14,
+      "title": "Naavu Kannadigaru",
+      "titleKannada": "ನಾವು ಕನ್ನಡಿಗರು",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ನಾವು ಕನ್ನಡಿಗರು ಹೆಮ್ಮೆ ಪಡೋಣ\nನಮ್ಮ ಕನ್ನಡ ನಾಡ ಪ್ರೀತಿಸೋಣ\nಕನ್ನಡ ಅಮ್ಮ ನುಡಿ ಎಂದು\nಮನದಲ್ಲಿ ಸದಾ ನೆನೆಯೋಣ",
+      "verseEnglish": "We are Kannadigas let us be proud\nLet us love our Kannada land\nKannada is our mother tongue\nLet us always remember it in our hearts",
+      "wordMeanings": [
+        {"word":"ಕನ್ನಡಿಗರು","meaning":"ಕನ್ನಡ ಮಾತನಾಡುವ ಜನ","transliteration":"kannadigaru","englishEquivalent":"Kannada people"},
+        {"word":"ಹೆಮ್ಮೆ","meaning":"ಅಭಿಮಾನ","transliteration":"hemme","englishEquivalent":"pride"},
+        {"word":"ಅಮ್ಮ ನುಡಿ","meaning":"ತಾಯಿ ಭಾಷೆ","transliteration":"amma nudi","englishEquivalent":"mother tongue"}
+      ],
+      "bhavartha": "ಕನ್ನಡ ಭಾಷಾಭಿಮಾನ ತೋರಿಸುವ ಪದ್ಯ. A patriotic poem for children instilling pride in Kannada language and Karnataka. Sung in school assemblies across Karnataka.",
+      "audioFile": "poem_014",
+      "theme": "Patriotism"
+    },
+    {
+      "id": 15,
+      "title": "Raitana Maganu",
+      "titleKannada": "ರೈತನ ಮಗನು",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ರೈತನ ಮಗ ಹೊಲಕ್ಕೆ ಹೋದ\nಬೀಜ ಬಿತ್ತಿ ನೀರ ಹಾಕಿದ\nಬೆಳೆ ಬೆಳೆದು ಫಸಲು ಬಂತು\nಎಲ್ಲರಿಗೂ ಅನ್ನ ಕೊಟ್ಟ",
+      "verseEnglish": "The farmer's son went to the field\nHe sowed seeds and watered them\nThe crops grew and gave harvest\nHe gave food to everyone",
+      "wordMeanings": [
+        {"word":"ರೈತ","meaning":"ಬೇಸಾಯ ಮಾಡುವ ವ್ಯಕ್ತಿ","transliteration":"raita","englishEquivalent":"farmer"},
+        {"word":"ಬೀಜ","meaning":"ಬಿತ್ತಲು ಉಪಯೋಗಿಸುವ ವಸ್ತು","transliteration":"beeja","englishEquivalent":"seed"},
+        {"word":"ಫಸಲು","meaning":"ಬೆಳೆ, ಕೃಷಿ ಫಲ","transliteration":"phasalu","englishEquivalent":"harvest, crop"}
+      ],
+      "bhavartha": "ರೈತನ ಕಷ್ಟ ಮತ್ತು ಸೇವೆ ತಿಳಿಸುವ ಪದ್ಯ. A poem about the hardworking farmer who feeds everyone — teaching children to respect farmers. 2nd standard Karnataka textbook.",
+      "audioFile": "poem_015",
+      "theme": "Wisdom"
+    },
+    {
+      "id": 16,
+      "title": "Deepa Jyoti",
+      "titleKannada": "ದೀಪ ಜ್ಯೋತಿ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ದೀಪ ಬೆಳಗಿಸೋಣ ಬನ್ನಿ\nಕತ್ತಲ ಓಡಿಸೋಣ ಬನ್ನಿ\nದೇವರ ಮುಂದೆ ದೀಪ ಇಡೋಣ\nಮನೆ ತುಂಬ ಬೆಳಕ ತರೋಣ",
+      "verseEnglish": "Come let us light a lamp\nCome let us chase away darkness\nLet us place a lamp before God\nLet us bring light to the whole house",
+      "wordMeanings": [
+        {"word":"ದೀಪ","meaning":"ಬೆಳಕಿನ ವಸ್ತು","transliteration":"deepa","englishEquivalent":"lamp, light"},
+        {"word":"ಜ್ಯೋತಿ","meaning":"ಬೆಂಕಿ ಬೆಳಕು","transliteration":"jyoti","englishEquivalent":"flame, light"},
+        {"word":"ಕತ್ತಲ","meaning":"ಬೆಳಕಿಲ್ಲದ ಸ್ಥಳ","transliteration":"kattala","englishEquivalent":"darkness"}
+      ],
+      "bhavartha": "ದೀಪ ಬೆಳಗಿಸಿ ಕತ್ತಲ ಓಡಿಸುವ ಭಕ್ತಿಯ ಪದ್ಯ. ದೀಪಾವಳಿ ಸಂದರ್ಭದಲ್ಲಿ ಮಕ್ಕಳು ಹಾಡುತ್ತಾರೆ. A devotional poem about lighting lamps sung during Deepawali. Teaches children about light defeating darkness.",
+      "audioFile": "poem_016",
+      "theme": "Devotion"
+    },
+    {
+      "id": 17,
+      "title": "Mara Nagara",
+      "titleKannada": "ಮರ ನಗರ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ಮರ ನೆಡೋಣ ಮರ ನೆಡೋಣ\nಮಳೆ ತರೋಣ ಮಳೆ ತರೋಣ\nಹಸಿರು ಭೂಮಿ ಮಾಡೋಣ\nಎಲ್ಲ ಜೀವಿಗೆ ತಂಪು ಕೊಡೋಣ",
+      "verseEnglish": "Let us plant trees let us plant trees\nLet us bring rain let us bring rain\nLet us make the earth green\nLet us give shade to all living beings",
+      "wordMeanings": [
+        {"word":"ಮರ","meaning":"ಮರ, ಗಿಡ","transliteration":"mara","englishEquivalent":"tree"},
+        {"word":"ನೆಡು","meaning":"ಗಿಡ ಹಾಕು","transliteration":"nedu","englishEquivalent":"to plant"},
+        {"word":"ಹಸಿರು","meaning":"ಸಸ್ಯದ ಬಣ್ಣ","transliteration":"hasiru","englishEquivalent":"green"}
+      ],
+      "bhavartha": "ಮರ ನೆಡುವ ಮಹತ್ವ ತಿಳಿಸುವ ಪರಿಸರ ಕಾಳಜಿಯ ಪದ್ಯ. An environment poem encouraging children to plant trees and protect nature. Taught in 2nd-3rd standard Karnataka schools.",
+      "audioFile": "poem_017",
+      "theme": "Nature"
+    },
+    {
+      "id": 18,
+      "title": "Tande Tande",
+      "titleKannada": "ತಂದೆ ತಂದೆ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ತಂದೆ ತಂದೆ ಬನ್ನಿ ಇಲ್ಲಿ\nನನ್ನ ಕರೆದು ಕೊಂಡು ಹೋಗಿ\nಶಾಲೆಗೆ ಬಿಡಿ ನನ್ನನ್ನು\nಓದಿ ಬೆಳೆಯಲು ಸಹಾಯ ಮಾಡಿ",
+      "verseEnglish": "Father father come here\nTake me along with you\nDrop me at school\nHelp me to study and grow",
+      "wordMeanings": [
+        {"word":"ತಂದೆ","meaning":"ತಾಯಿ ಜೊತೆ ಮಗುವಿನ ಪಾಲಕ","transliteration":"tande","englishEquivalent":"father"},
+        {"word":"ಓದು","meaning":"ಕಲಿ","transliteration":"odu","englishEquivalent":"to study, to read"},
+        {"word":"ಬೆಳೆ","meaning":"ದೊಡ್ಡವನಾಗು","transliteration":"bele","englishEquivalent":"to grow up"}
+      ],
+      "bhavartha": "ತಂದೆಯ ಪ್ರೀತಿ ಮತ್ತು ಶಿಕ್ಷಣದ ಮಹತ್ವ ತಿಳಿಸುವ ಪದ್ಯ. A sweet poem about a child asking father to take them to school — teaches importance of education and family love.",
+      "audioFile": "poem_018",
+      "theme": "Love"
+    },
+    {
+      "id": 19,
+      "title": "Namma Rajyotsava",
+      "titleKannada": "ನಮ್ಮ ರಾಜ್ಯೋತ್ಸವ",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ನವೆಂಬರ್ ಒಂದು ರಾಜ್ಯೋತ್ಸವ\nಕನ್ನಡ ನಾಡ ಹಬ್ಬ ಇದು\nಕೆಂಪು ಹಳದಿ ಧ್ವಜ ಹಾರಿಸೋಣ\nಕನ್ನಡ ಮಾತೆಗೆ ಜಯ ಹೇಳೋಣ",
+      "verseEnglish": "November first is Rajyotsava\nThis is the festival of Karnataka\nLet us hoist the red yellow flag\nLet us say victory to Kannada mother",
+      "wordMeanings": [
+        {"word":"ರಾಜ್ಯೋತ್ಸವ","meaning":"ರಾಜ್ಯ ಸ್ಥಾಪನೆ ಹಬ್ಬ","transliteration":"rajyotsava","englishEquivalent":"State formation day"},
+        {"word":"ಧ್ವಜ","meaning":"ಬಾವುಟ","transliteration":"dhwaja","englishEquivalent":"flag"},
+        {"word":"ಜಯ","meaning":"ಗೆಲುವು","transliteration":"jaya","englishEquivalent":"victory"}
+      ],
+      "bhavartha": "ನವೆಂಬರ್ ೧ ರ ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವ ಆಚರಿಸುವ ಪದ್ಯ. A poem celebrating Karnataka Rajyotsava on November 1st — sung in all Karnataka schools on that special day.",
+      "audioFile": "poem_019",
+      "theme": "Patriotism"
+    },
+    {
+      "id": 20,
+      "title": "Yenu Kalisuvudu",
+      "titleKannada": "ಏನು ಕಲಿಸುವುದು",
+      "poet": "Traditional Karnataka",
+      "poetId": 8,
+      "era": "Traditional",
+      "verse": "ತಾಯಿ ಕಲಿಸುವಳು ಪ್ರೀತಿ\nತಂದೆ ಕಲಿಸುವನು ಧೈರ್ಯ\nಶಾಲೆ ಕಲಿಸುವುದು ಜ್ಞಾನ\nದೇವರು ಕಲಿಸುವನು ದಯೆ",
+      "verseEnglish": "Mother teaches love\nFather teaches courage\nSchool teaches knowledge\nGod teaches compassion",
+      "wordMeanings": [
+        {"word":"ಧೈರ್ಯ","meaning":"ಎದೆಗಾರಿಕೆ","transliteration":"dhairya","englishEquivalent":"courage, bravery"},
+        {"word":"ದಯೆ","meaning":"ಕರುಣೆ","transliteration":"daye","englishEquivalent":"compassion, kindness"},
+        {"word":"ಜ್ಞಾನ","meaning":"ಅರಿವು","transliteration":"jnana","englishEquivalent":"knowledge"}
+      ],
+      "bhavartha": "ಜೀವನದ ಮೌಲ್ಯಗಳನ್ನು ಕಲಿಸುವ ಪದ್ಯ. A poem about life values — mother gives love, father gives courage, school gives knowledge, God gives compassion. 2nd standard Karnataka poem.",
+      "audioFile": "poem_020",
+      "theme": "Wisdom"
+    }
+  ],
+  "poets": [
+    {
+      "id": 1, "name": "D.V. Gundappa", "nameKannada": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ",
+      "born": "1887", "died": "1975", "era": "Modern Kannada", "jnanpithYear": "1974",
+      "biography": "D.V. Gundappa (DVG) was a philosopher, poet and journalist. His Mankutimmana Kagga is called the Bible of Kannada philosophy.",
+      "majorWorks": ["Mankutimmana Kagga","Vichara Vairagya","Antahpura Geethe"],
+      "literaryStyle": "Philosophical poetry in shatpadi metre", "imageRes": "dvg"
+    },
+    {
+      "id": 2, "name": "Kuvempu", "nameKannada": "ಕುವೆಂಪು",
+      "born": "1904", "died": "1994", "era": "20th Century", "jnanpithYear": "1967",
+      "biography": "Kuvempu was the first Kannada writer to win the Jnanpith Award. He is known for the philosophy of Vishwamanava — universal human being.",
+      "majorWorks": ["Ramayana Darshanam","Malegalalli Madumagalu","Sri Ramayana Darshanam"],
+      "literaryStyle": "Epic poetry, prose, universal humanism", "imageRes": "kuvempu"
+    },
+    {
+      "id": 3, "name": "Basavanna", "nameKannada": "ಬಸವಣ್ಣ",
+      "born": "1131", "died": "1167", "era": "12th Century", "jnanpithYear": "Ancient",
+      "biography": "Basavanna was a 12th century philosopher who founded the Lingayat movement. His Vachanas challenged caste and promoted equality.",
+      "majorWorks": ["Vachana Sahitya","Kayakave Kailasa","Social reform Vachanas"],
+      "literaryStyle": "Free verse Vachana poetry", "imageRes": "basavanna"
+    },
+    {
+      "id": 4, "name": "Da. Ra. Bendre", "nameKannada": "ದ. ರಾ. ಬೇಂದ್ರೆ",
+      "born": "1896", "died": "1981", "era": "20th Century", "jnanpithYear": "1973",
+      "biography": "Bendre was one of Karnataka's greatest lyric poets known for musical poetry and folk imagery from North Karnataka.",
+      "majorWorks": ["Naadaleela","Gangavatarana","Sakhigeetha"],
+      "literaryStyle": "Lyrical folk-music poetry", "imageRes": "bendre"
+    },
+    {
+      "id": 5, "name": "Akkamahadevi", "nameKannada": "ಅಕ್ಕಮಹಾದೇವಿ",
+      "born": "1130", "died": "1160", "era": "12th Century", "jnanpithYear": "Ancient",
+      "biography": "Akkamahadevi was a 12th century mystic poet who devoted her life to Lord Shiva. Her Vachanas are celebrated for passionate devotion.",
+      "majorWorks": ["Vachana Sahitya","Channamallikarjuna Vachanas"],
+      "literaryStyle": "Devotional Vachana poetry", "imageRes": "akka"
+    },
+    {
+      "id": 6, "name": "Purandaradasa", "nameKannada": "ಪುರಂದರದಾಸ",
+      "born": "1484", "died": "1564", "era": "15th Century", "jnanpithYear": "Ancient",
+      "biography": "Purandaradasa is called the Grandfather of Carnatic Music. He composed over 475,000 devotional songs.",
+      "majorWorks": ["Devaranamas","Suladis","Ugabhogas"],
+      "literaryStyle": "Simple devotional Devaranama songs", "imageRes": "purandaradasa"
+    },
+    {
+      "id": 7, "name": "Sarvajna", "nameKannada": "ಸರ್ವಜ್ಞ",
+      "born": "1106", "died": "1150", "era": "12th Century", "jnanpithYear": "Ancient",
+      "biography": "Sarvajna meaning all-knowing wrote thousands of Tripadi poems containing moral wisdom still quoted in daily life.",
+      "majorWorks": ["Sarvajna Tripadis","Niti Vachanagalu"],
+      "literaryStyle": "Three-line Tripadi aphoristic verse", "imageRes": "sarvajna"
+    },
+    {
+      "id": 8, "name": "Traditional Karnataka", "nameKannada": "ಸಾಂಪ್ರದಾಯಿಕ ಕನ್ನಡ",
+      "born": "Ancient", "died": "Timeless", "era": "Traditional", "jnanpithYear": "N/A",
+      "biography": "These are traditional folk poems and nursery rhymes passed down through generations in Karnataka. They form the foundation of Karnataka's oral literary tradition and are taught in all government primary schools.",
+      "majorWorks": ["Aane Baaro","Baa Baa Kaage","Chandamama","Akka Baaramma","Namma Nadu Karnataka"],
+      "literaryStyle": "Simple rhyming folk verses for children", "imageRes": "traditional"
+    }
+  ]
+}
