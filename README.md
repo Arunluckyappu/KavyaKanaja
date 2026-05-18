@@ -1,10 +1,10 @@
-# Kavya-Kanaja 
+ Kavya-Kanaja 
 
 Kavya-Kanaja is an Android application developed to promote Indian culture, patriotic values, inspirational literature, and educational learning through an interactive digital platform.
 
 ---
 
-##  Project Overview
+ Project Overview
 
 The application provides users with access to patriotic poems, inspirational stories, multilingual educational content, and AI-powered assistance for enhanced learning experiences.
 
@@ -12,7 +12,7 @@ The project was developed during the Android App Development with Generative AI 
 
 ---
 
-## ? Features
+Features
 
 - Patriotic poems and stories
 - AI-powered assistance
@@ -25,7 +25,7 @@ The project was developed during the Android App Development with Generative AI 
 
 ---
 
-## ??? Technologies Used
+ Technologies Used
 
 - Android Studio
 - Kotlin / Java
@@ -34,17 +34,8 @@ The project was developed during the Android App Development with Generative AI 
 - Gemini API
 - Google AI Studio
 - Jetpack Compose / XML
-
 ---
-
-##  Screenshots                                 
-
-
-
-
----
-
-##  Installation
+ Installation
 
 1. Clone repository
 
@@ -57,7 +48,7 @@ git clone https://github.com/Arunluckyappu/Kavya-Kanaja.git
 
 4. Run application
 
-##  Future Enhancements
+  Future Enhancements
 
 - AI recommendations
 - Video learning
@@ -66,8 +57,9 @@ git clone https://github.com/Arunluckyappu/Kavya-Kanaja.git
 
 ---
 
-##  Developed By
+ Developed By
 ARUN A
+CMR INSTITUTE OF TECHNOLOGY 
 
-Android App Development with Generative AI Internship – MindMatrix
+Android App Development with Generative AI Internship â€“ MindMatrix
 
